@@ -1,0 +1,14 @@
+.headercontainer {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+}
+
+.headercontainer.headerlogo {
+    flex-grow: 2;
+}
+
+.section1text {
+    display: flex;
+    flex-direction: column;
+}
